@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>welcome to HARI Tech Solution...!</h2>
+<h2>Welcome To HARI Tech Solution...!</h2>
 </body>
 </html>
